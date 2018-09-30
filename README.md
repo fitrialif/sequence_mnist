@@ -2,7 +2,7 @@
 Using Recurrent Neural Networks for the handwritten digit classification on MNIST dataset.  
 
 
-> MNIST has become kind of default and standard choice for getting started with neural networks. But a lot of people are still unknown of *"how to use mnist as sequence data and apply the RNNs on it?"*. So this is expected audience here.
+> MNIST has become kind of default and standard choice for getting started with neural networks. But if are having this question: *"How to use mnist as sequence data and apply the RNNs on it?"*. Then you are the expected audience here.
 
 > Moreover, if you want to see how you can code RNN model in tensorflow pretty much from scratch (that without using there inbuilt rnn api which ofcourse is more optimized), then also you can check out this code.
 
